@@ -1,0 +1,5 @@
+# .gitignore
+retail_sales_env/
+*.csv
+__pycache__/
+*.pyc
