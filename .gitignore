@@ -1,4 +1,5 @@
 # .gitignore
+retail_sales.csv
 retail_sales_env/
 *.csv
 __pycache__/
